@@ -3,11 +3,11 @@
 
 
 <ol>
-   Instalando a app 
+  <li> Instalando a app </li>
   <p>git clone do repositório</p> 
 
 
-   crie uma pasta e guarde o projeto em outra pasta por fim de organização 
+  <li> crie uma pasta e guarde o projeto em outra pasta por fim de organização </li>
 
 
    <li>Crie um ambiente virtual com o comando abaixo</li>
