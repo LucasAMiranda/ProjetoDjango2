@@ -7,7 +7,10 @@
   <p>git clone do repositório</p> 
 
 
-  <li> crie uma pasta e guarde o projeto em outra pasta por fim de organização </li>
+   <li> Crie uma pasta e guarde o projeto em outra pasta por fim de organização </li>
+  
+   
+   <li> Entre na subpsta que está o projeto e o arquivo com <i>manage.py</i>
 
 
    <li>Crie um ambiente virtual com o comando abaixo</li>
