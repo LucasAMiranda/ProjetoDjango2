@@ -1,0 +1,11 @@
+se você estiver no ubuntu, você precisará rodar o comando:
+===>sudo apt-get install libmysqlclient.dev python3.dev
+
+Se você estiver no MAC:
+===>brew install mysql-connector-c
+
+
+Se você tiver no Windows
+===>Se tiver no windows, e tem servidor MySQL instalado, as bibliotecas
+já devem estar instaladas.
+python3 -m pip install --pre --upgrade PACKAGE==VERSION.VERSION.VERSION
