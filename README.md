@@ -4,7 +4,9 @@
 
 <ol>
   <li> Instalando a app </li>
-  <p>git clone do repositório</p> 
+  <ul>
+    <li>git clone do repositório</li>
+  </ul> 
 
 
    <li> Crie uma pasta e guarde o projeto em outra pasta por fim de organização </li>
@@ -14,10 +16,14 @@
 
 
    <li>Crie um ambiente virtual com o comando abaixo</li>
-   <p>Python -m venv nome-ambiente-virtual</p> 
+   <ul>
+     <li>Python -m venv nome-ambiente-virtual</li>
+  </ul>
 
 
   <li>Rode o programa</li>
-  <p>python manage.py runserver</p> 
+  <ul>
+    <li>python manage.py runserver</li>
+  </ul> 
 </ol>
 
